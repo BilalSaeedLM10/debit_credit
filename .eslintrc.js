@@ -1,7 +1,7 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
   parserOptions: {
-    project: '../accounts/nestjs-mysql-typeorm-sample/tsconfig.json',
+    project: '../accounts/debit_credit/tsconfig.json',
     sourceType: 'module',
   },
   plugins: ['@typescript-eslint/eslint-plugin'],
